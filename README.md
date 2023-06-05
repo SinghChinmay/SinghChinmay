@@ -2,7 +2,7 @@
 
 👨‍💻 I'm a Senior Full Stack Developer with 7+ years of experience in software development, specializing in  backend technology like NodeJS, TypeScript, AWS, RESTful API design etc. I'm passionate about staying up-to-date with new technologies, and my favourite JavaScript frameworks are **SvelteJs and NodeJS** 🚀.
 
-![Chinmay Singh is a STAR ⭐](https://github-readme-stats.vercel.app/api?username=singhChinmay&show_icons=true&theme=onedark)
+![Chinmay Singh is a STAR ⭐](https://github-readme-stats.vercel.app/api?username=singhChinmay&show_icons=true&theme=dark)
 &nbsp;
 
 🛠 Proficient in understanding specifications, translating them into requirements, and implementing solutions with extensive experience in testing, including unit and integration tests. ✅
@@ -19,7 +19,7 @@ work with.
 
 ## Languages & Tools
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singhChinmay&show_icons=true&theme=dark&langs_count=10&size_weight=.4&layout=donut-vertical)
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -59,4 +59,4 @@ work with.
 ![VSCode](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Slack](https://img.shields.io/badge/slack-%234A154B.svg?style=for-the-badge&logo=slack&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singhChinmay&show_icons=true&theme=onedark&langs_count=10&size_weight=.4)
+
