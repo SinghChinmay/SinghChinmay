@@ -1,6 +1,6 @@
 # 💡 Let's connect and explore how we can work together to make a difference in the tech industry! 😎
 
-👨‍💻 I'm a Lead / Senior Full Stack & Platform Engineer with ~10 years building high-scale, cloud-native microservices in **Node.js, TypeScript, Go, AWS**, and event-driven architectures. I've delivered production systems for **Sony**, **finance (QuickBooks-integrated)**, **Japanese enterprise management**, and **high-performance streaming/CDN infrastructure** 🚀.
+👨‍💻 I'm a Lead / Senior Full Stack & Platform Engineer with ~11 years building high-scale, cloud-native microservices in **Node.js, TypeScript, Go, AWS**, and event-driven architectures. I've delivered production systems for **Sony**, **finance (QuickBooks-integrated)**, **Japanese enterprise management**, and **high-performance streaming/CDN infrastructure** 🚀.
 
 ![Chinmay Singh is a STAR ⭐](https://github-readme-stats.vercel.app/api?username=singhChinmay&show_icons=true&theme=dark)
 &nbsp;
@@ -8,8 +8,6 @@
 🛠 Known for **rapid greenfield delivery** (QuickBooks sync platform in 3 months), **performance tuning** (eBPF + Istio), and **team mentorship**. Exploring **Bun** for low-latency services while maintaining deep strength in distributed system design. ✅
 
 🔒 Strong expertise in **security** (OPA, OAuth, JWT, Cryptography) and **scalable DevOps automation**, with extensive experience in testing, including unit and integration tests.
-
-🤝 Currently, I'm working with [StreamFT](https://streamft.com/) through [Magic Factory Tech Private Ltd](https://magicfactory.tech/), utilising my expertise in microservices, NodeJS, TypeScript, Lambdas, SQS, SNS. 
 
 💻 In addition to my technical skills, I'm experienced in video and image editing. 📽️
 
