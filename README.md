@@ -165,9 +165,9 @@ Building a legendary platform for Japanese merchants with LINE powers! Leading a
   <br><br>
 <h2><b>Kuma is the Real Hero</b></h2><br/>
   <img src="kuma.jpeg"/>
-<h2><b>And Booney is the Cutest</b></h2>
-  <img src="booney.jpg"/>
-  <img src="booney1.jpg"/>
+<h2><b>And Bonney is the Cutest</b></h2>
+  <img src="bonney.jpg"/>
+  <img src="bonney1.jpg"/>
 </div>
 
 
