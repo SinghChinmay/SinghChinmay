@@ -163,11 +163,19 @@ Building a legendary platform for Japanese merchants with LINE powers! Leading a
   <br>
   <i>"Kaizoku Ou ni ore wa naru!"</i>
   <br><br>
+</div>
+
+<details>
+<summary>🚨 SPOILER ALERT — If you have watched till Episode 1100 of One Piece (Egghead Arc), click to reveal! 🚨</summary>
+
+<div align="center">
 <h2><b>Kuma is the Real Hero</b></h2><br/>
   <img src="kuma.jpeg"/>
 <h2><b>And Bonney is the Cutest</b></h2>
   <img src="bonney.jpg"/>
   <img src="bonney1.jpg"/>
 </div>
+
+</details>
 
 
