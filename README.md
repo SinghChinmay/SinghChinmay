@@ -209,8 +209,7 @@ Building a legendary platform for Japanese merchants with LINE powers! Leading a
 | 2019-2021 | ⚡ Lenergy Mobility | Payment Shogun 💳 | United 5 treasure gates → +20% gold flow! |
 | 2018-2019 | 🌐 Tata Communications | Fleet Admiral 🌊 | Commanded 300+ ships across the world! |
 | 2016-2018 | 📚 Scholarnex & Infinite Knowledge | Apprentice 🌅 | Sharpened my first blades and trained for the Grand Line ahead! |
-| 2008-2021 | ⛓️‍💥 Freelance, Blogging & PHP Projects | Rogue Adventurer 🏴‍☠ | Charted my earliest maps through blogging, freelance quests, and PHP-forged treasures! |
-🐾
+| 2008-2021 | ⛓️‍💥 Freelance, Blogs & PHP Projects | Rogue Adventurer 🏴‍☠ | Ate my first Devil Fruit 🍌 |
 
 ---
 
