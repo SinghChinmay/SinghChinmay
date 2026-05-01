@@ -6,7 +6,7 @@
 
 ## ☠️ Wanted: Dead or Alive - Chinmay Singh ☠️
 
-💰 **Bounty:** ฿12,000,000,000 *(~12 Years of Battle Experience)*  
+💰 **Bounty:** ฿15,000,000,000 *(~15 Years of Battle Experience)*  
 ⚔️ **Epithet:** "The Code Shogun" — Lead Platform Shipwright  
 🍎 **Devil Fruit:** `Code-Code no Mi` (Model: Polyglot)     
 🗾 **Last Seen:** The Eastern Blue (NCR, India)     
